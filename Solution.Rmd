@@ -1,0 +1,14 @@
+---
+title: "Developing Data Products - Project 1 - Solution"
+author: "Dr. Guy Cohen"
+date: "August 22, 2015"
+output: html_document
+---
+
+##__The Application__
+
+I built an application that provides an estimate of the annual real return for a stock market symbol entered by the user. The application is available at http://guycohn947.shinyapps.io/myapp .
+
+##__Reproducible Pitch Presentation__
+
+The presentation for the application is available at http://rpubs.com/guycohn947/regmeanapp .
